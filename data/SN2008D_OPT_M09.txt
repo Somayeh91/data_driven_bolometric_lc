@@ -1,0 +1,46 @@
+Table 4 
+Optical Photometry of SN 2008D
+
+
+MJD (day)	Deltat^a (day)	B (mag)	V (mag)	R (mag)	R(c)^b (mag)	r' (mag)	i' (mag)	I (mag)	Tel.^c	
+54474.45	-0.12	>20.10	>19.80	 sdotsdotsdot 	 sdotsdotsdot 	>20.20	> 20.20	 sdotsdotsdot 	FLWO	
+54475.41	0.84	19.08(03)	18.52(04)	 sdotsdotsdot 	 sdotsdotsdot 	18.31(04)	18.17(03)	 sdotsdotsdot 	FLWO	
+54476.41	1.85	19.05(07)	18.33(04)	17.80(03)	17.78(05)	 sdotsdotsdot 	 sdotsdotsdot 	17.34(05)	KAIT	
+54476.43	1.87	18.98(03)	18.38(03)	 sdotsdotsdot 	 sdotsdotsdot 	18.11(03)	17.86(03)	 sdotsdotsdot 	FLWO	
+54477.35	2.78	19.01(03)	18.39(05)	17.84(03)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	17.36(02)	Nickel	
+54477.36	2.79	19.11(02)	18.44(03)	 sdotsdotsdot 	 sdotsdotsdot 	18.15(02)	17.86(02)	 sdotsdotsdot 	FLWO	
+54477.46	2.89	19.15(08)	18.43(05)	17.85(04)	17.82(05)	 sdotsdotsdot 	-	17.38(04)	KAIT	
+54478.34	3.78	19.09(03)	18.37(02)	17.89(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	17.37(02)	Nickel	
+54478.39	3.83	19.24(02)	18.47(02)	 sdotsdotsdot 	 sdotsdotsdot 	18.17(02)	17.89(02)	 sdotsdotsdot 	FLWO	
+54478.44	3.87	19.22(09)	18.43(05)	17.83(04)	17.81(05)	 sdotsdotsdot 	 sdotsdotsdot 	17.40(04)	KAIT	
+54479.43	4.86	19.14(06)	18.30(04)	17.78(04)	17.76(05)	 sdotsdotsdot 	 sdotsdotsdot 	17.19(04)	KAIT	
+54480.39	5.83	19.34(06)	18.22(04)	 sdotsdotsdot 	 sdotsdotsdot 	18.02(03)	17.72(04)	 sdotsdotsdot 	FLWO	
+54480.40	5.84	19.23(07)	18.22(04)	17.68(03)	17.64(05)	 sdotsdotsdot 	 sdotsdotsdot 	17.17(03)	KAIT	
+54481.43	6.86	18.95(11)	17.97(05)	17.47(06)	17.48(05)	 sdotsdotsdot 	 sdotsdotsdot 	16.97(05)	KAIT	
+54481.51	6.94	19.10(04)	18.05(04)	 sdotsdotsdot 	 sdotsdotsdot 	17.75(05)	17.58(09)	 sdotsdotsdot 	FLWO	
+54482.39	7.82	18.88(11)	17.93(05)	17.34(03)	17.31(05)	 sdotsdotsdot 	 sdotsdotsdot 	16.81(04)	KAIT	
+54482.43	7.86	18.98(02)	17.94(03)	 sdotsdotsdot 	 sdotsdotsdot 	17.65(03)	17.34(03)	 sdotsdotsdot 	FLWO	
+54483.27	8.71	18.89(05)	17.70(03)	 sdotsdotsdot 	 sdotsdotsdot 	17.51(02)	17.25(03)	 sdotsdotsdot 	FLWO	
+54483.36	8.79	18.90(10)	17.73(04)	17.27(02)	17.21(06)	 sdotsdotsdot 	 sdotsdotsdot 	16.72(03)	KAIT	
+54484.36	9.79	18.69(07)	17.69(04)	17.13(02)	17.07(06)	 sdotsdotsdot 	 sdotsdotsdot 	16.58(02)	KAIT	
+54485.34	10.77	18.54(08)	17.61(05)	17.07(02)	16.97(08)	 sdotsdotsdot 	 sdotsdotsdot 	16.41(02)	KAIT	
+54489.41	19.90	18.76(05)	17.63(03)	 sdotsdotsdot 	 sdotsdotsdot 	17.00(02)	16.87(02)	 sdotsdotsdot 	FLWO	
+54495.36	20.80	18.36(04)	17.38(03)	 sdotsdotsdot 	 sdotsdotsdot 	17.00(02)	16.65(02)	 sdotsdotsdot 	FLWO	
+54496.34	21.77	18.52(03)	17.41(02)	 sdotsdotsdot 	 sdotsdotsdot 	16.95(02)	16.59(02)	 sdotsdotsdot 	FLWO	
+54497.39	22.83	18.63(03)	17.40(02)	 sdotsdotsdot 	 sdotsdotsdot 	17.06(03)	16.68(03)	 sdotsdotsdot 	FLWO	
+54498.30	23.74	18.63(05)	17.50(04)	 sdotsdotsdot 	 sdotsdotsdot 	17.05(02)	16.65(02)	 sdotsdotsdot 	FLWO	
+54499.35	24.79	18.72(02)	17.49(02)	 sdotsdotsdot 	 sdotsdotsdot 	17.07(02)	16.70(02)	 sdotsdotsdot 	FLWO	
+54501.42	26.85	18.92(07)	17.54(03)	16.82(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	16.20(02)	KAIT	
+54502.36	27.79	19.01(05)	17.58(03)	16.86(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	16.22(02)	KAIT	
+54502.44	27.87	18.93(04)	17.51(02)	 sdotsdotsdot 	 sdotsdotsdot 	17.18(02)	16.77(02)	 sdotsdotsdot 	FLWO	
+54503.34	28.78	19.15(03)	17.67(02)	 sdotsdotsdot 	 sdotsdotsdot 	17.22(02)	16.78(02)	 sdotsdotsdot 	FLWO	
+54503.38	28.81	19.13(06)	17.64(03)	16.86(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	16.24(02)	KAIT	
+54504.35	29.78	19.19(05)	17.74(03)	16.95(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	16.27(03)	KAIT	
+54504.37	29.81	19.25(04)	17.71(02)	 sdotsdotsdot 	 sdotsdotsdot 	17.29(02)	16.83(02)	 sdotsdotsdot 	FLWO	
+54505.33	30.76	19.28(06)	17.82(03)	17.01(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	16.28(02)	KAIT	
+54507.32	32.75	19.52(08)	17.92(03)	17.11(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	16.38(02)	KAIT	
+54509.29	34.72	19.70(06)	18.06(03)	17.21(02)	 sdotsdotsdot 	 sdotsdotsdot 	 sdotsdotsdot 	16.42(02)	KAIT	
+Notes. Uncertainties of the measurements are indicated in parentheses.
+a Time in days since t_0.
+b R(c)-band magnitudes derived from unfiltered observations.
+c Telescopes used: KAIT = 0.76 m Katzman Automatic Imaging Telescope; Nickel = Lick Observatory 1 m Nickel telescope; FLWO = FLWO 1.2 m telescope.
